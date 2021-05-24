@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
 #EXTINF:0 tvg-name=”RTSH1 HD” tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png", RTSH1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 tvg-name="RTK 2" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png", RTK 2
