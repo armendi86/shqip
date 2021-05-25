@@ -13,5 +13,5 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4069
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4123
 #EXTINF:0 tvg-id="TopChannelHD.al" tvg-name="TOP Channel HD" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png", TOP Channel HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1311
-#EXTINF:0 tvg-name="TV Dukagjini" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png", TV Dukagjini
+#EXTINF:0 tvg-id="TV Dukagjini" tvg-name="TV Dukagjini" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png", TV Dukagjini
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6708
