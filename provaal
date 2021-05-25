@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://www.iptvepg.eu/al"
-#EXTINF:0 tvg-id="RTK.al" tvg-name=”RTK 1” tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png", RTK 1
+#EXTINF:0 tvg-id="htv1.hr" tvg-name=”RTK 1” tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png", RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 tvg-name="RTK 2" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png", RTK 2
 http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
