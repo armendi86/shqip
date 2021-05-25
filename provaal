@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
+#EXTM3U x-tvg-url="https://www.iptvepg.eu/al"
 #EXTINF:0 tvg-id="RTK.al" tvg-name=”RTK 1” tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png", RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 tvg-name="RTK 2" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png", RTK 2
@@ -9,9 +9,9 @@ http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:0 tvg-name="KTV HD" tvg-logo="http://www.albepg.com/tvlogi/KTV%20HD.png", KTV HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4069
-#EXTINF:0 tvg-name="RTSH HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png", RTSH HD
+#EXTINF:0 tvg-name="RTSH1 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png", RTSH1 HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4123
-#EXTINF:0 tvg-name="TOP Channel HD" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png", TOP Channel HD
+#EXTINF:0 tvg-id="TopChannelHD.al" tvg-name="TOP Channel HD" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png", TOP Channel HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1311
 #EXTINF:0 tvg-name="TV Dukagjini" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png", TV Dukagjini
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6708
