@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="AL: shem1sq" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",AL: kan1sq
+#EXTINF:-1,AL: kan1sq
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="AL: shem2sq" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",AL: kan2sq
+#EXTINF:-1,AL: kan2sq
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="AL: shem3sq" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",AL: kan3sq
+#EXTINF:-1,AL: kan3sq
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="KS: shem1ks" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",KS: kan1ks
+#EXTINF:-1,KS: kan1ks
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="KS: shem2ks" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",KS: kan2ks
+#EXTINF:-1,KS: kan2ks
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="KS: shem3ks" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",KS: kan3ks
+#EXTINF:-1,KS: kan3ks
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="MN: shem1mn" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",MN: kan1mn
+#EXTINF:-1,MN: kan1mn
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="MN: shem2mn" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",MN: kan2mn
+#EXTINF:-1,MN: kan2mn
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="MN: shem3mn" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",MN: kan3mn
+#EXTINF:-1,MN: kan3mn
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-name="AL: shem4sq" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",AL: kan4sq
+#EXTINF:-1,AL: kan4sq
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
